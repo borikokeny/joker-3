@@ -1,0 +1,22 @@
+{
+  "name": "joker-3",
+  "version": "0.0.1",
+  "description": "jokes",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/borikokeny/environment-3.git"
+  },
+  "keywords": [
+    "jokes"
+  ],
+  "author": "Bori Kokeny <bori@minerali.hu>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/borikokeny/environment-3/issues"
+  },
+  "homepage": "https://github.com/borikokeny/environment-3#readme"
+}
